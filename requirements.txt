@@ -1,0 +1,6 @@
+pandas
+jupyter
+plotly
+plot-likert
+scipy
+matplotlib
